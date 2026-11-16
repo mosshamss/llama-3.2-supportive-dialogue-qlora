@@ -117,3 +117,7 @@ The notebook is the **unaltered historical experiment**, not a fully tested one-
 ## Portfolio focus
 
 This project demonstrates hands-on experience with **LLM fine-tuning workflows, synthetic dialogue preprocessing, PEFT/LoRA, GPU training, quality evaluation, and responsible reporting of experiment limitations**.
+
+## Author
+
+Mohamed Hassanien
