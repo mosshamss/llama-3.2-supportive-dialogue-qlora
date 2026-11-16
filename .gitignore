@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Data and model artifacts
+processed_dataset.csv
+outputs/
+checkpoints/
+lora_model/
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.jsonl
+*.csv
+
+# Colab / local
+.DS_Store

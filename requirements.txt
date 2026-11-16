@@ -1,0 +1,18 @@
+# Reference dependencies used by the historical Colab notebook.
+# Exact compatible versions depend on GPU, CUDA, and Unsloth release.
+# These packages were NOT installed or tested while preparing this repository.
+unsloth
+transformers
+accelerate
+bitsandbytes
+trl
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+evaluate
+bert-score
+rouge-score
+xformers
